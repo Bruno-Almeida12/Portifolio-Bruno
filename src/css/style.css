@@ -139,14 +139,14 @@ body{
 
 .projetos .container-projetos{
     display: flex;
-    gap: 20px;
+    gap: 30px;
     flex-wrap: wrap;
     margin-bottom: 20px;
     justify-content: center;
 }
 
 .projetos .projeto{
-    max-width: 260px;
+    max-width: 280px;
     max-height: 500px;
     position: relative;
     display: none;
